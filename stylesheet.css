@@ -1,0 +1,102 @@
+.section {
+  width: 100%;
+  height: 707px;
+  font-family: high;
+  font-weight: 500;
+  font-size: 20px;
+  text-align: center; }
+  .section img {
+    height: 80%;
+    margin-top: 30px; }
+  .section .box {
+    height: 750px;
+    width: 1080px;
+    justify-content: center;
+    display: flex;
+    flex-direction: row; }
+    .section .box span {
+      margin-top: 20%;
+      margin-left: 30px; }
+
+.slide .pointer {
+  width: 150px;
+  height: 220px; }
+.slide .icon {
+  width: 100px;
+  height: 100px;
+  margin-top: 15%;
+  margin-left: 20px;
+  margin-right: 100px; }
+.slide .button {
+  width: 220px;
+  height: 54px;
+  margin-right: 30px; }
+.slide .option {
+  width: 300px;
+  height: 120px;
+  margin-top: 30%;
+  margin-left: 10px; }
+
+#one {
+  width: 100%;
+  height: 707px;
+  background: #913E4C;
+  text-align: center;
+  padding-top: 20px;
+  color: #D0BD95;
+  font-family: touch;
+  font-size: 80px;
+  font-weight: 500; }
+  #one img {
+    height: 80%;
+    margin-top: 30px; }
+
+#two {
+  background: #9C4E4F;
+  color: #D0BD95; }
+
+#three {
+  background: #D0BD95;
+  color: #650A34; }
+
+#four {
+  background: #650A34;
+  color: #D0BD95; }
+
+#five {
+  background: #D0BD95;
+  color: #650A34; }
+
+#six {
+  background: #9C4E4F;
+  color: #D0BD95; }
+
+#seven {
+  background: #D0BD95;
+  color: #650A34; }
+
+#eight {
+  background: #650A34;
+  color: #D0BD95; }
+
+#nine {
+  background: #913E4C;
+  color: #D0BD95; }
+
+#ten {
+  background: #CC9998;
+  color: #650A34; }
+
+#eleven {
+  background: #9C4E4F;
+  color: #D0BD95; }
+
+#twelve {
+  background: #D0BD95;
+  color: #650A34; }
+
+#thirteen {
+  background: #CC9998;
+  color: #650A34; }
+
+/*# sourceMappingURL=stylesheet.css.map */
